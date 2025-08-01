@@ -1,5 +1,5 @@
 
-<img src='https://i.imgur.com/nnhM4dc.png' alt='Plus Natural Resources' title='Plus Natural Resources' />
+<img src='https://i.imgur.com/qA52vW6.png' alt='Plus Natural Resources' title='Plus Natural Resources' />
 
 <h2>Official Repository for the Development of EngiOffice360 Suite</h2>
 <p>
